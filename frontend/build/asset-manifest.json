@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.263995e8.css",
+    "main.js": "/static/js/main.e620edb6.js",
+    "static/js/787.dc22cc5e.chunk.js": "/static/js/787.dc22cc5e.chunk.js",
+    "static/media/open-sans-all-700-normal.woff": "/static/media/open-sans-all-700-normal.105e43091a26bbed22fe.woff",
+    "static/media/raleway-all-400-normal.woff": "/static/media/raleway-all-400-normal.98e7ff86f2b9a46e19cc.woff",
+    "static/media/raleway-latin-400-normal.woff2": "/static/media/raleway-latin-400-normal.0bdecdd83e78d540c297.woff2",
+    "static/media/Xonaxh.png": "/static/media/Xonaxh.f161b197cf4db529e215.png",
+    "static/media/open-sans-cyrillic-ext-700-normal.woff2": "/static/media/open-sans-cyrillic-ext-700-normal.00b4dd1737b042f58e99.woff2",
+    "static/media/open-sans-latin-700-normal.woff2": "/static/media/open-sans-latin-700-normal.b245bc85ddeedb27a549.woff2",
+    "static/media/raleway-latin-ext-400-normal.woff2": "/static/media/raleway-latin-ext-400-normal.e2c3693083a044bed680.woff2",
+    "static/media/open-sans-latin-ext-700-normal.woff2": "/static/media/open-sans-latin-ext-700-normal.64471a17dcb915ab3332.woff2",
+    "static/media/raleway-cyrillic-ext-400-normal.woff2": "/static/media/raleway-cyrillic-ext-400-normal.afca160d632851197a24.woff2",
+    "static/media/raleway-cyrillic-400-normal.woff2": "/static/media/raleway-cyrillic-400-normal.f7d0cc4bf9cf8da4f023.woff2",
+    "static/media/open-sans-cyrillic-700-normal.woff2": "/static/media/open-sans-cyrillic-700-normal.2cf6253fec5056197d00.woff2",
+    "static/media/open-sans-greek-700-normal.woff2": "/static/media/open-sans-greek-700-normal.a0312547715346ffccb1.woff2",
+    "static/media/open-sans-hebrew-700-normal.woff2": "/static/media/open-sans-hebrew-700-normal.3befb44d920b69550008.woff2",
+    "static/media/open-sans-vietnamese-700-normal.woff2": "/static/media/open-sans-vietnamese-700-normal.b4c5968d5737aea8ed2d.woff2",
+    "static/media/raleway-vietnamese-400-normal.woff2": "/static/media/raleway-vietnamese-400-normal.bb6f51e1b67ec8802d57.woff2",
+    "static/media/open-sans-greek-ext-700-normal.woff2": "/static/media/open-sans-greek-ext-700-normal.8850c90c4b61e6472307.woff2",
+    "index.html": "/index.html",
+    "main.263995e8.css.map": "/static/css/main.263995e8.css.map",
+    "main.e620edb6.js.map": "/static/js/main.e620edb6.js.map",
+    "787.dc22cc5e.chunk.js.map": "/static/js/787.dc22cc5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.263995e8.css",
+    "static/js/main.e620edb6.js"
+  ]
+}
